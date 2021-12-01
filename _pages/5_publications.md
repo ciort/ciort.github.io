@@ -10,10 +10,5 @@ nav: true
 Selected IF papers and pre-prints (submitted) only, for full list pleasee see my [scholar](https://scholar.google.pl/citations?user=z3bOMUAAAAAJ), [research-gate](https://www.researchgate.net/profile/Rafal-Kucharski-2) and [scopus](https://www.scopus.com/authid/detail.uri?authorId=57014903600).
 
 <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
+ {% bibliography --template bib --group_by type,year --group_order ascending,descending %}
 </div>
