@@ -9,9 +9,9 @@ nav: true
 We run several on-going externally-funded research projects:
 
 
-##1. Post-corona shared mobility
-### Modelling and controlling virus spread processes in shared mobility networks
-2021-2024, 1mln PLN funded by National Science Centre under scheme OPUS 19, funding 2PhD Positions and PostDoc
+### 1. Post-corona shared mobility
+
+> Modelling and controlling virus spread processes in shared mobility networks 2021-2024, 1mln PLN funded by National Science Centre under scheme OPUS 19, funding 2PhD Positions and PostDoc
 ---
 
 
@@ -50,8 +50,8 @@ controlling the contact to prevent a future outbreaks.
 
 
 ----
-## 2. DigiWorld - STRATEGIC PROGRAM EXCELLENCE INITIATIVE AT THE JAGIELLONIAN UNIVERSITY
-### Fully funded assistant professor position at Group of Machine Learning
+### 2. DigiWorld - Strategic Program Excellence Initiative at Jagiellonian University 
+> Fully funded tenure-track professor position at Group of Machine Learning
 
 With this grant I enjoy a three-year fully funded assistant professor position to collaborate with Group of Machine Learning af Faculty of Mathematics.
 We explore intersections between AI/ML and modern ubran mobility. 
