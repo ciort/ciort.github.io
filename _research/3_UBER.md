@@ -3,6 +3,8 @@ layout: page
 title: big data
 description: Uber versus PT in 6 cities - spatial analyses
 img: /assets/img/HEXES_10_NYC_NJT_added_value_mean.png
+importance: 3
+category: work
 ---
 
 
