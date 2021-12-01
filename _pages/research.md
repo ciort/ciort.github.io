@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Featured research projects from last years
-order: 2
+nav: true
 ---
 
 Selected studies covering broad range of urban mobility problems that I covered last years.
