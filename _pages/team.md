@@ -3,7 +3,7 @@ layout: page
 title: vision
 permalink: /team/
 description: Research group
-order: 3
+nav: true
 ---
 
 
