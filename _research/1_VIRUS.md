@@ -3,6 +3,8 @@ layout: page
 title: network science
 description: Modelling virus spreading in ride-pooling networks
 img: /assets/img/virus.png
+importance: 1
+category: work
 ---
 
 **Pooled travellers infect each others through a complex, dynamic contact network. We simulate this in context of demand mobility patterns in Amsterdam, trace epidemic outbreaks and identify effective control measures mitigating it**
