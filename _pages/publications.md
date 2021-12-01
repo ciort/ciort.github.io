@@ -17,5 +17,5 @@ Selected IF papers and pre-prints (submitted) only, for full list pleasee see my
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+
 
