@@ -3,7 +3,7 @@ layout: page
 title: current projects
 permalink: /projects/
 description: On-going externally-funded research projects
-order: 6
+nav: true
 ---
 
 We run several on-going externally-funded research projects:
