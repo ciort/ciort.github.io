@@ -3,7 +3,7 @@ layout: page
 title: open positions
 permalink: /jobs/
 description: We are looking for new faces to support our exciting research
-order: 5
+nav: true
 ---
 
 We have three open positions in the field of Urban Mobility and Machine Learning - modelling and optimizing the complexity of urban travel in presence of emerging modes (shared-mobility, ride-hailing, etc.) and post-pandemic safety issues.
