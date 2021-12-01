@@ -16,7 +16,7 @@ We run several on-going externally-funded research projects:
 
 
 
-We anticipate substantial changes to post-corona1 urban mobility, when safety concerns will drive individual,
+We anticipate substantial changes to post-corona urban mobility, when safety concerns will drive individual,
 as well as, public decision makers. Travellers’ choices are likely to shift towards modes of low exposure to viruses.
 Consequently, the sustainable mobility paradigm needs to drift into ’sustainable, yet safe’, unleashing a novel
 trade-off dilemmas spanned between: cost-comfort-safety for individuals and: sustainability-efficiency-safety
@@ -47,6 +47,8 @@ of diffusion trees and giant components.
 Control, trace and halt spreading with a proactive strategic, tactical and operational system
 management to make sharing safe again. Demand management to keep system attractive, yet
 controlling the contact to prevent a future outbreaks.
+
+Two PhD students involved: Michal Bujak and Farnoud Ghasemi
 
 
 ----
