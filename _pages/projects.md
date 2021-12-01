@@ -1,6 +1,6 @@
 ---
 layout: page
-title: current projects
+title: grants
 permalink: /projects/
 description: On-going externally-funded research projects
 nav: true
