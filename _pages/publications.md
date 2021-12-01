@@ -9,7 +9,8 @@ nav: true
 
 Selected IF papers and pre-prints (submitted) only, for full list pleasee see my (scholar)[https://scholar.google.pl/citations?user=z3bOMUAAAAAJ&hl=pl], (research-gate)[https://www.researchgate.net/profile/Rafal-Kucharski-2] and (scopus)[https://www.scopus.com/authid/detail.uri?authorId=57014903600].
 
-<div class="publications">
+<h2 class="pre-prints">pre-prints</h2>
+  {% bibliography -f preprints}
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
