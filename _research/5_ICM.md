@@ -3,6 +3,8 @@ layout: page
 title: modelling
 description: Simulation of rerouting phenomena in Dynamic Traffic Assignment with the Information Comply Model
 img: /assets/img/ICM.png
+importance: 5
+category: work
 ---
 
 **Dynamic User Equilibrium well defines stable state of urban traffic network, but what if something unexpected happens? We propose a model, embedded in production-ready DTA solutions of PTV SISTeMA.**
