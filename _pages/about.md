@@ -17,7 +17,6 @@ news: true
 social: true
 ---
 
-AM I?
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
 
 Currently, as an **Assistant Professor** in the Faculty of Mathematics and Computer Science of **Jagiellonian University** in Krakow (Poland) I am part of the **Group of Machine Learning Research** [GMUM](http://www.gmum.net). I run the *NCN Opus Grant* on Shared Mobility in the pandemic times and build a team to research complex social systems of urban mobility within the [DigiWorld](https://id.uj.edu.pl/en_GB/digiworld) scheme. We are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling in Kraków, Poland, see details in the '_jobs_' tab.
@@ -36,4 +35,4 @@ Outside of academia I was:
 
 
 
-<img src="/./assets/img/TU.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img//SPTL.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/CM.png" alt="drawing" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/LOGO-ERC.jpg" alt="drawing" width="80"/>
+<img src="/./assets/img/UJ.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
