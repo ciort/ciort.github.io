@@ -33,4 +33,4 @@ Outside of academia I was:
 
 
 
-<img src="/./assets/img/UJ.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
+<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
