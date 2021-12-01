@@ -94,6 +94,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  team:
+    output: true
+    permalink: /team/:path/
 
 news_limit: 12
 
