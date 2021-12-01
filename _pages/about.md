@@ -1,24 +1,39 @@
 ---
 layout: about
-title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Rafał Kucharski </strong>
+description: Assistant Professor, Jagiellonian University, Krakow, Poland
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me.png
+  #QY address
+  #QY <p>Office 211</p>
+  #QY <p>Interdisciplinary Science Building</p>
+  #QY <p>734 Brookhaven Avenue</p>
+  #QY <p>Upton, NY 11793</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+AM I?
+I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, as an **Assistant Professor** in the Faculty of Mathematics and Computer Science of **Jagiellonian University** in Krakow (Poland) I am part of the **Group of Machine Learning Research** [GMUM](http://www.gmum.net). I run the *NCN Opus Grant* on Shared Mobility in the pandemic times and build a team to research complex social systems of urban mobility within the [DigiWorld](https://id.uj.edu.pl/en_GB/digiworld) scheme. We are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling in Kraków, Poland, see details in the '_jobs_' tab.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Lately, I worked (2019-2021) with Oded Cats at TU Delft in his ERC Starting Grant [Critical MaaS](http://smartptlab.tudelft.nl/projects/criticalmaas). I model two-sided mobility platforms, specifcally focusing on ride-pooling (making people share their Uber with co-travellers). I did PhD with Guido Gentile in non-equilibrium dynamic traffic assignment. In the interdisciplinary field of _urban mobility_ I did research which can be classified as: 
+* model estimation, optimization, system control, network design;
+* agent-based simulation, game-theory, network science, stochastic simulation, epidemic modelling;
+* machine learning, spatial analysis, big data analysis, pattern recognition, unsupervised learning;
+* behavioural modelling, economic discrete choice models, policy, sustainability.
+
+Outside of academia I was: 
+* Data Scientist at [NorthGravity](https://www.northgravity.com/about_us) developing AWS-based protfolio or real-time production ready ML solutions
+* R&D Developer at PTV SISTeMA implementing algorithms into [PTV Optima](https://www.ptvgroup.com/en/solutions/products/ptv-optima/) real-time  traffic forecasting models.
+* Transport Modeller at [Department of Transportation Systems](http://www.kst.pk.edu.pl/) using travel-diaries to estimate demand models and create strategic planning tools, e.g. for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
+
+
+
+
+<img src="/./assets/img/TU.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img//SPTL.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/CM.png" alt="drawing" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/LOGO-ERC.jpg" alt="drawing" width="80"/>
