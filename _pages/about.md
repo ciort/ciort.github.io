@@ -1,21 +1,19 @@
 ---
 layout: about
-permalink: /
 title: <strong>Rafał Kucharski </strong>
+permalink: /
 description: Assistant Professor, Jagiellonian University, Krakow, Poland
 
 profile:
   align: right
   image: me.png
-  #QY address
-  #QY <p>Office 211</p>
-  #QY <p>Interdisciplinary Science Building</p>
-  #QY <p>734 Brookhaven Avenue</p>
-  #QY <p>Upton, NY 11793</p>
 
-news: true
-social: true
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
+
 
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
 
