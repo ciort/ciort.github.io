@@ -1,6 +1,6 @@
 ---
 layout: page
-title: open positions
+title: join
 permalink: /jobs/
 description: We are looking for new faces to support our exciting research
 nav: true
