@@ -2,7 +2,7 @@
 layout: page
 title: simulation
 description: agent-based two-sided mobility platform simulator
-img: /assets/img/maassim.png
+img: assets/img/maassim.png
 importance: 4
 category: work
 ---
