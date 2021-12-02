@@ -2,7 +2,7 @@
 layout: page
 title: modelling
 description: Simulation of rerouting phenomena in Dynamic Traffic Assignment with the Information Comply Model
-img: /assets/img/ICM.png
+img: assets/img/ICM.png
 importance: 5
 category: work
 ---
