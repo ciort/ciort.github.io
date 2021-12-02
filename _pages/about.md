@@ -31,6 +31,12 @@ Outside of academia I was:
 * Transport Modeller at [Department of Transportation Systems](http://www.kst.pk.edu.pl/) using travel-diaries to estimate demand models and create strategic planning tools, e.g. for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
 
 
+---
 
 
-<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
+
+
+
+<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
+
+---
