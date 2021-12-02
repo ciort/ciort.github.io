@@ -18,6 +18,3 @@ Selected IF papers and pre-prints (submitted) only, for full list pleasee see my
 
 </div>
 
-# <div class="publications">
-#  {% bibliography --template bib --group_by type,year --group_order ascending,descending %}
-# </div>
