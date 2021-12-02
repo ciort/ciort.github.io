@@ -2,8 +2,11 @@
 layout: page
 title: Michal Bujak
 description: Network structures and topology of shareability networks in ride-pooling
-img: /assets/img/virus.png
+img: /assets/img/michal.png
+importance: 2
+category: PhD
 ---
+
 
 
 <div class="img_row">
