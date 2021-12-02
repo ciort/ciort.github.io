@@ -2,7 +2,7 @@
 layout: page
 title: big data
 description: Uber versus PT in 6 cities - spatial analyses
-img: /assets/img/uber.png
+img: assets/img/uber.png
 importance: 3
 category: work
 ---
