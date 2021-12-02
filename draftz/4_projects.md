@@ -1,11 +1,7 @@
 ---
 layout: page
 title: grants
-permalink: /projects/
-descr---
-layout: page
-title: projects
-permalink: /projects/
+permalink: /grants/
 description: A growing collection of your cool projects.
 nav: true
 display_categories: [work, fun]
