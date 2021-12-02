@@ -2,7 +2,7 @@
 layout: page
 title: network science
 description: Modelling virus spreading in ride-pooling networks
-img: assets/img/virus.jpg
+img: assets/img/virus.png
 importance: 1
 category: work
 ---
