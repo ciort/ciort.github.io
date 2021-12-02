@@ -170,27 +170,19 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
-
 scholar:
 
   last_name: Kucharski
-  first_name: [Rafal, R.]
 
   style: american-physics-society
   locale: en
 
+  sort_by: year, month
+  order: descending
+
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-  # Note: if you have latex math in your bibtex, the latex filter
-  # preprocessing may conflict with MathJAX if the latter is enabled.
-  # See https://github.com/alshedivat/al-folio/issues/357.
-  bibtex_filters: [latex, smallcaps, superscript]
-  
-  sort_by: year, month
-  order: descending, descending
-  type_order: [unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport]
-  type_names: {unpublished: Pre-Prints / In Preparation}
 
   replace_strings: true
   join_strings: true
