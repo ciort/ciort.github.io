@@ -2,7 +2,7 @@
 layout: page
 title: clustering
 description: Clustering spatiotemporal mobility data of NYC bikes.
-img: /assets/img/vector_small.png
+img: assets/img/vector_small.png
 importance: 6
 category: work
 ---
