@@ -37,7 +37,7 @@ Our *group* targets at interesction of urban mobility and machine learning. We a
 
   {% else %}
   <!-- Display projects without categories -->
-    {% assign sorted_projects = site.projects | sort: "importance" %}
+    {% assign sorted_projects = site.team | sort: "importance" %}
     <!-- Generate cards for each project -->
     {% if page.horizontal %}
       <div class="container">
@@ -56,6 +56,7 @@ Our *group* targets at interesction of urban mobility and machine learning. We a
     {% endif %}
 
   {% endif %}
+
 
   
   
