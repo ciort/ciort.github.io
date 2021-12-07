@@ -173,6 +173,7 @@ jekyll-archives:
 scholar:
 
   last_name: Kucharski
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
