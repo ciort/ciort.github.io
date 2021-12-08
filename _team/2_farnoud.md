@@ -2,7 +2,6 @@
 layout: page
 title: Farnoud Ghasemi
 description: Adaptations and learning in agent-based models of two-sided mobility platforms
-img: assets/img/farnoud.jpeg
 importance: 1
 category: PhD
 ---
