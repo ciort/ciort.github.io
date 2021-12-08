@@ -51,11 +51,11 @@ Please share your CV and a brief cover letter at rafal.kucharski@uj.edu.pl - we 
 ~~We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed. The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
 
 
-### 2: Reveal, understand and model post-pandemic travel behaviour towards emerging mobility models.
+~~### 2: Reveal, understand and model post-pandemic travel behaviour towards emerging mobility models.
 
-You will study travellers behaviour in urban mobility (WP1). In the rapidly changing landscape of urban mobility, you shall aim to track the emerging trends, identify dynamics in behaviour to precisely define market shares and target groups for future shared mobility. In the abundance of recent, corona-related research in mobility, you shall synthesize the latest theories, studies and findings to underpin our shared-mobility models. You shall conduct behavioural studies. Both revealed and stated preference studies to quantify and describe mobility behaviour. Three pillars of your PhD will be:
+~~You will study travellers behaviour in urban mobility (WP1). In the rapidly changing landscape of urban mobility, you shall aim to track the emerging trends, identify dynamics in behaviour to precisely define market shares and target groups for future shared mobility. In the abundance of recent, corona-related research in mobility, you shall synthesize the latest theories, studies and findings to underpin our shared-mobility models. You shall conduct behavioural studies. Both revealed and stated preference studies to quantify and describe mobility behaviour. Three pillars of your PhD will be:
 
-You shall data-mine big datasets of mobility traces (ride-hailing trip records, smart-card public transport trips, etc.) to trace behaviour shifts.
+~~You shall data-mine big datasets of mobility traces (ride-hailing trip records, smart-card public transport trips, etc.) to trace behaviour shifts.
 You shall conduct panel focus groups on target groups to understand stated-preferences for shared mobility. This will be further used to formulate, estimate and calibrate behavioural models.
 You shall synthesize findings of WP2 to forecast the effects of control and design measure on behaviour and, reversely, to underpin control and design strategies from WP3 with travellers’ preferences.
 As an ideal candidate, you should hold a Master Degree in Econometrics, Transportation or a similar STEM field. You should have the basics of behavioural models and decision making processes (discrete choice models). Candidates with a background in mathematical modelling and transport demand models and transportation enthusiasts will be given a priority. Fluent reading and writing English is essential for this position.
@@ -77,25 +77,25 @@ As an ideal candidate, you should hold a Master Degree in Econometrics, Transpor
 
 ---
 
-### Process (PhD):
+~~### Process (PhD):
 
 
-You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagiellonian University](https://science.phd.uj.edu.pl/) and receive an extra scholarship from NCN OPUS project, summing up to the total of **6300PLN** net for the first two years, then rising to **7500PLN** net.
+~~You will be enrolled on a [Doctoral School of Exact and Natural Sciences at Jagiellonian University](https://science.phd.uj.edu.pl/) and receive an extra scholarship from NCN OPUS project, summing up to the total of **6300PLN** net for the first two years, then rising to **7500PLN** net.
 
-The process is following:
+~~The process is following:
 
-1. In the first stage, you contact directly the PI (r.m.kucharski _at_ tudelft.nl) for the recommendation letter, which is issued subject to the positive outcome of the job interview.
-2. In the second stage, you are recommended by the PI to be recruited at the doctoral school and undergo the recreation, which ends *8 june 2021* ( [details](www.science.phd.uj.edu.pl))
-3. In the third stage you enrol to the NCN Opus project for external scholarship, which shall be finalized before the starting date (1 Oct 2021)
+~~1. In the first stage, you contact directly the PI (r.m.kucharski _at_ tudelft.nl) for the recommendation letter, which is issued subject to the positive outcome of the job interview.
+~~2. In the second stage, you are recommended by the PI to be recruited at the doctoral school and undergo the recreation, which ends *8 june 2021* ( [details](www.science.phd.uj.edu.pl))
+~~3. In the third stage you enrol to the NCN Opus project for external scholarship, which shall be finalized before the starting date (1 Oct 2021)
 
 
-_To apply (PhD) please send:_
+~~_To apply (PhD) please send:_
 
-* a *curriculum vitae* (CV) with particular reference to academic achievements (max. 2 A4
+~~* a *curriculum vitae* (CV) with particular reference to academic achievements (max. 2 A4
 pages);
-* description of the proposed subject of the doctoral dissertation with relation to the above project (max. 2 A4
-pages);
-* Summary of your Master Thesis (completed or in-progress) and brief description of its relevance for this project. 
+~~* description of the proposed subject of the doctoral dissertation with relation to the above project (max. 2 A4
+~~pages);
+~~* Summary of your Master Thesis (completed or in-progress) and brief description of its relevance for this project. 
 
 
 
