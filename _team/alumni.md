@@ -2,7 +2,6 @@
 layout: page
 title: Alumni
 description: past members of the lab
-img: assets/img/8.jpg
 importance: 2
 category: alumni
 ---
