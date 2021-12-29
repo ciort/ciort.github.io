@@ -11,7 +11,7 @@ category: work
 **Uber shared with us rich spatiotemporal data on 3 million trips from 6 cities in EU and US. 
 We fused them with PT alternative and explored complex spatiotemporal patterns.**
  
-Presented at _TRB 2021 in Washington, DC_ and under consideration in _Journal of Transport Geography_ with Santosh Rao Danda (Uber), Menno Yapp (Transportation for London) and Oded Cats (TU Delft)
+Presented at _TRB 2021 in Washington, DC_ and published  in _PLOS One_ with Santosh Rao Danda (Uber), Menno Yapp (Transportation for London) and Oded Cats (TU Delft)
 
 <center><img src="{{ site.baseurl }}/assets/img/uber.png" height="460" width="630"></center>
 <div class="col three caption">
