@@ -4,4 +4,4 @@ date: 2022-01-01 09:10:00-0400
 inline: true
 ---
 
-Our [CityBike paper](https://rafalkucharskipk.github.io/projects/3_UBER/) was published in `Current Issues in Tourism` - new field to share output of our research...
+Our [CityBike paper](https://www.tandfonline.com/doi/abs/10.1080/13683500.2021.2011841?journalCode=rcit20) was published in `Current Issues in Tourism` - new field and a highly reputable journal to share findings
