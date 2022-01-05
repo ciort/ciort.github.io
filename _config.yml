@@ -95,7 +95,7 @@ collections:
     output: true
     permalink: /team/:path/
 
-news_limit: 12
+news_limit: 6
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
