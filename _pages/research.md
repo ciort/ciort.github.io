@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Selected research projects
 nav: true
-display_categories: [work, grants]
+display_categories: [pooling, grants, varia]
 horizontal: false
 ---
 <div class="projects">
