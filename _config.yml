@@ -93,7 +93,7 @@ collections:
     permalink: /research/:path/
   group:
     output: true
-    permalink: /team/:group/
+    permalink: /group/:path/
 
 news_limit: 6
 
