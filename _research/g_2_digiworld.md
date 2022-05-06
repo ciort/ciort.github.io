@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DigiWorld - tenure track
-description: DigiWorld - Strategic Program Excellence Initiative at Jagiellonian University 
+title: DigiWorld
+description: tenure-track professor position
 img: assets/img/iduj.png
 importance: 2
 category: grants
