@@ -4,7 +4,7 @@ title: group
 permalink: /group/
 description: Our research group
 nav: true
-display_categories: [team, varia]
+display_categories: [team, alumni]
 horizontal: false
 ---
 <div class="projects">
