@@ -1,10 +1,10 @@
 ---
 layout: page
-title: research
-permalink: /research/
-description: Selected research projects
+title: group
+permalink: /group/
+description: Our research group
 nav: true
-display_categories: [pooling, grants, varia]
+display_categories: [varia]
 horizontal: false
 ---
 <div class="projects">
