@@ -4,7 +4,7 @@ title: optimization
 description: Exact algorithm for ride-pooling ExMAS
 img: assets/img/map.png
 importance: 2
-category: work
+category: varia
 ---
 
 **3000 travelers can form 1.55 x 10^16 rides shared by four of them. For the case of Amsterdam, only 130 of them are attractive and 44 are actually chosen in optimal solution. How to deal with the complexity, combinatorial explosion? See our efficient, behavioural algorithm applicable in realistic demand settings.**
