@@ -4,7 +4,7 @@ title: simulation
 description: agent-based two-sided mobility platform simulator
 img: assets/img/maassim.png
 importance: 4
-category: work
+category: varia
 ---
 
 **Agent-based two-sided mobility platform simulator - lightweight open-source scientific software. Designed to support research of four PhDs and several master students under Critical MaaS grant - stream of papers in preparation.**
