@@ -4,7 +4,7 @@ title: clustering
 description: Clustering spatiotemporal mobility data of NYC bikes.
 img: assets/img/vector_small.png
 importance: 6
-category: work
+category: varia
 ---
 
 **We collected data on millions of city bike trips from NYC and started thinking how to synthesize them. We came up with this idea of 'vector of movement' that aggregates mobility pattern into a single vector. With this we may now cluster big datasets into groups of similar patterns and provide more accurate mobility predictions (including weather)**

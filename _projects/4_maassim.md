@@ -9,7 +9,7 @@ category: work
 
 **Agent-based two-sided mobility platform simulator - lightweight open-source scientific software. Designed to support research of four PhDs and several master students under Critical MaaS grant - stream of papers in preparation.**
 
-Preprint on [arxiv](https://arxiv.org/abs/2011.12827) (under review in _SoftwareX_) 
+Preprint on [arxiv](https://arxiv.org/abs/2011.12827) (under review in _PLOS One_) 
 and publicly available github [repo](https://github.com/RafalKucharskiPK/MaaSSim) with *Oded Cats*. 
 
 
