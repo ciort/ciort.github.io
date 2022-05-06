@@ -91,9 +91,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  team:
+  group:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:group/
 
 news_limit: 6
 
