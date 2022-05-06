@@ -2,7 +2,7 @@
 layout: page
 title: Arkadiusz Drabicki
 description: PhD in real-time crodwing information for public transport
-img: assets/img/UJ.jpeg
+img: assets/img/arek.jpeg
 importance: 1
 category: alumni
 ---
