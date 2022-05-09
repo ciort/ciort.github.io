@@ -7,6 +7,11 @@ importance: 4
 category: team
 ---
 
+<center><img src="{{ site.baseurl }}/assets/img/usman.jpg" height="300" width="300"></center>
+<div class="col three caption">
+    Our team in May 2022: Usman, Rafal, Olga, Michal and Farnoud.
+</div>
+
 Usman graduated from  Computer Science at  Kyung Hee University  (KHU)  in
 South Korea, he brings a broad computer science experience to the team. He
 works   in   the   intersection   of   Data   Management,   Distributed   Systems,   and
