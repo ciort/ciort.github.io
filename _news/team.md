@@ -5,4 +5,4 @@ inline: true
 ---
 
 Happy to Welcome Olha Shulika, our new PostDoc. 
-Olha, before the russian agression was assistant professor in Kharkiv, Ukraine. She joined us to explore the ride-pooling in the postpandemic world.
+[Olha](https://rafalkucharskipk.github.io/research/olha_shulika/), before the russian agression was an assistant professor in Kharkiv, Ukraine. She joined us to explore the ride-pooling in the postpandemic world.
