@@ -17,7 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
 
+I now focus on **ride-pooling**, i.e. Uber-like systems where two or more travellers share a single vehicle. This is highly challenging combinatorial optimization problem, to which I contributed with the [ExMAS](https://github.com/RafalKucharskiPK/ExMAS) algorithm. This, first user-centric demand driven exact ride-poling algorithm rooted a long and rewarding stream of contributions in e.g.: [Game Theory](https://doi.org/https://doi.org/10.1016/j.ejor.2021.11.041), [Virus Spreading](https://doi.org/https://doi.org/10.1038/s41598-021-86704-2), [Network Science](https://arxiv.org/abs/2206.12259), [Transit Network Desing Problem](https://arxiv.org/abs/2206.05940) and growing.
+
 Currently, as an **Assistant Professor** in the Faculty of Mathematics and Computer Science of **Jagiellonian University** in Krakow (Poland) I am part of the **Group of Machine Learning Research** [GMUM](http://www.gmum.net). I run the *NCN Opus Grant* on Shared Mobility in the pandemic times and run a team to research complex social systems of urban mobility within the [DigiWorld](https://id.uj.edu.pl/en_GB/digiworld) scheme. We are now a team of two PhDs, two PostDocs and me.
+
+
 
 Before, I worked (2019-2021) with Oded Cats at TU Delft in his ERC Starting Grant [Critical MaaS](http://smartptlab.tudelft.nl/projects/criticalmaas). I model two-sided mobility platforms, specifcally focusing on ride-pooling (making people share their Uber with co-travellers - [ExMAS](https://github.com/RafalKucharskiPK/ExMAS)) and agent-based simulator for Uber-like systems ([MaaSSim](https://github.com/RafalKucharskiPK/MaaSSim)). I did PhD with Guido Gentile in non-equilibrium dynamic traffic assignment. In the interdisciplinary field of _urban mobility_ I did research which can be classified as: 
 * model estimation, optimization, system control, network design;
