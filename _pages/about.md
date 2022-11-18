@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
+I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. Full [CV](/assets/pdf/CV_en_2022.pdf)
 
 I now focus on **ride-pooling**, i.e. Uber-like systems where two or more travellers share a single vehicle. This is highly challenging combinatorial optimization problem, to which I contributed with the [ExMAS](https://github.com/RafalKucharskiPK/ExMAS) algorithm. This, the first user-centric demand driven exact ride-poling algorithm, rooted a long and rewarding stream of contributions in e.g.: [Game Theory](https://doi.org/https://doi.org/10.1016/j.ejor.2021.11.041), [Virus Spreading](https://doi.org/https://doi.org/10.1038/s41598-021-86704-2), [Network Science](https://arxiv.org/abs/2206.12259), [Transit Network Desing Problem](https://arxiv.org/abs/2206.05940) and growing.
 
@@ -41,7 +41,7 @@ Outside of academia I was:
 
 
 
-<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" width="80"/>
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/logo_NCN.png" alt="drawing" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/iduj.png" alt="drawing" height="80"/>
 
 ---
 
