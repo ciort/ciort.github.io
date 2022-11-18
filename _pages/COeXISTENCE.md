@@ -2,7 +2,7 @@
 layout: page
 permalink: /COeXISTENCE/
 title: COeXISTENCE
-description: journal papers and arXiv preprints in reversed chronological order.
+description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
 nav: true
 ---
 
