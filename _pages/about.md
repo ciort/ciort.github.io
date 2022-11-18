@@ -41,7 +41,7 @@ Outside of academia I was:
 
 
 
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/logo_NCN.png" alt="drawing" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/UJ.jpeg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" height="80"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/iduj.png" alt="drawing" height="80"/>
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="130"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/logo_NCN.png" alt="drawing" height="130"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/./assets/img/UJ.jpeg" alt="drawing" width="130"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" height="60"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/assets/img/iduj.png" alt="drawing" height="60"/>
 
 ---
 
