@@ -32,7 +32,6 @@ It spans between fields as diverse as:
 
 I am looking to hire three PhD students and a PostDoc to work on this exciting topic. 
 
-I can offer an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
 
 *  **PhD 1** with a background in deep reinforcement learning, ideally holding a master’s degree in computer science with experience in developing state-of-the-art RL models. She/he will focus on implementing RL frameworks into the agent-based models of urban mobility, he will work closely with a PostDoc of similar experience forming a core of machine-learning component of the project. 
 
@@ -45,6 +44,8 @@ I can offer an exceptional working environment, active and inspirational atmoshp
 
 
 PhD candidates and PostDoc will have excellent programming skills and background in STEM (in particular mathematics, statistics and complex systems) – enabling smooth implementation of algorithmic and theoretical concepts into the working scientific software.
+
+I can offer an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
 
 Please mail me for more information on the recruitment process.
 
