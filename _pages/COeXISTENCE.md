@@ -31,7 +31,20 @@ It spans between fields as diverse as:
 ### Vacancies
 
 I am looking to hire three PhD students and a PostDoc to work on this exciting topic. 
+
 I can offer an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
+
+*  **PhD 1** with a background in deep reinforcement learning, ideally holding a master’s degree in computer science with experience in developing state-of-the-art RL models. She/he will focus on implementing RL frameworks into the agent-based models of urban mobility, he will work closely with a PostDoc of similar experience forming a core of machine-learning component of the project. 
+
+* **PhD 2** with a background in modelling urban mobility, ideally holding a master’s degree in transportation engineering. She/he will focus on reproducing urban mobility in agent-based models of urban mobility. The main tasks will be to create virtual environments accurately reproducing future of urban mobility and to actively search for conflicts in the urban mobility games.
+
+* **PhD 3** with a background in computational social sciences, experienced with analysis of social systems. She/he shall have a strong experience in complex systems to cover the complexity of the mixed environment of humans and machines. She/he will introduce the behavioural component into the project, with ethical dilemmas, the trade-off between transparency and efficiency and multi-objective data-driven optimization of social systems. 
+
+
+* **PostDoctoral** researcher with experience in deep reinforcement learning and software development. She/he will work on a daily basis with the PhD students to integrate the software development process and manage the computational environment of the project. She/he will interface between hardware (nVIDIA framework) and our simulations making sure that available resources are utilized effectively. She/he will complement the PI with the skills on reinforcement learning, helpful in the challenging learning loops in multi-objective multi-agent settings.
+
+
+PhD candidates and PostDoc will have excellent programming skills and background in STEM (in particular mathematics, statistics and complex systems) – enabling smooth implementation of algorithmic and theoretical concepts into the working scientific software.
 
 Please mail me for more information on the recruitment process.
 
