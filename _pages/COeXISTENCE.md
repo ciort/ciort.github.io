@@ -42,11 +42,28 @@ I am looking to hire three PhD students and a PostDoc to work on this exciting t
 
 * **PostDoctoral** researcher with experience in deep reinforcement learning and software development. She/he will work on a daily basis with the PhD students to integrate the software development process and manage the computational environment of the project. She/he will interface between hardware (nVIDIA framework) and our simulations making sure that available resources are utilized effectively. She/he will complement the PI with the skills on reinforcement learning, helpful in the challenging learning loops in multi-objective multi-agent settings.
 
-
 PhD candidates and PostDoc will have excellent programming skills and background in STEM (in particular mathematics, statistics and complex systems) – enabling smooth implementation of algorithmic and theoretical concepts into the working scientific software.
 
-I can offer an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
+-----
 
-Please mail me for more information on the recruitment process.
+### Join us in Kraków, Poland
+
+<p align="center">
+<img src="/./assets/img/krk.jpeg" alt="drawing" height="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+
+Come and join us at one of oldest universities in Europe, founded 1364 in Kraków (Poland) with Copernicus and Pope John Paul II in its alumni. 
+
+With one of leading Machine Learning groups in Central Europe ([GMUM](www.gmum.net)) and this prestigous ERC Starting Grant, the [Jagiellonian University](https://welcome.uj.edu.pl/en_GB/) is the place for young scholars to grow.
+
+Kraków is one of the most wonderful medieval cities in Poland, Europe. Its breathtaking scenery and rich history are only an invitation to this stunning nation full of modern spaces, trendy restaurants, and bars. Furthermore, the combination of the city's housing ratings, cost of living, and healthcare are very attractive worldwide make it an ideal choice to relocate and be living in Krakow. No wonder, Krakow has become increasingly popular as an expat location in recent years. 
+
+
+We can offer highly competitive salaries (western europe level with the living cost at ~50%).
+You will work in an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
+
+Please mail me for more information on the recruitment process. 
+Details to be announced soon.
+Starting date 2023.
 
 ---
