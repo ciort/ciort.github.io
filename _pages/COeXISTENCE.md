@@ -30,6 +30,8 @@ It spans between fields as diverse as:
 
 ### Vacancies
 
+> We offer competitve salaries: ca. **2680€** gross for a PhD (12 500 PLN/msc + yearly bonus) and **3600€** gross for a PostDoc (17 000 PLN/msc + yearly bonus) with the costs of living at [ca. half of Western Europe](https://www.numbeo.com/cost-of-living/compare_cities.jsp?country1=Netherlands&country2=Poland&city1=Amsterdam&city2=Krakow+%28Cracow%29) 
+
 I am looking to hire three PhD students and a PostDoc to work on this exciting topic. 
 
 
