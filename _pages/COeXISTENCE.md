@@ -5,6 +5,7 @@ title: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
 nav: true
 ---
+> Vacancies details and recruitment process below
 
 I run the **ERC Starting Grant** to understand the future of Urban Mobility. In **COeXISTENCE**, with the team of 4, we try to foresee what happens when our cities are shared with autonomous, intelligent robots - competing with us for limited resources. We create virtual environments where individual agents compete to arrive faster, more reliably and cheaper at their destinations.  Human agents are simulated with detailed behavioural models, estimated and calibrated on the field data to reproduce how we behave and adapt in the cities. In the same environment the deep learning agents try the same - they  use deep reinforcement learning to maximise their rewards. This creates a harsh competition in which machines have upper-hands strong enough to beat us. 
 
@@ -64,8 +65,18 @@ Kraków is one of the most wonderful medieval cities in Poland, Europe. Its bre
 We can offer highly competitive salaries (western europe level with the living cost at ~50%).
 You will work in an exceptional working environment, active and inspirational atmoshpere, challenging and rewarding research conducted on the brand new campus of one of the oldest Universities in Europe (est. 1364) in one of the top tourist destinations worldwide (Kraków).
 
-Please mail me for more information on the recruitment process. 
-Details to be announced soon.
-Starting date 2023.
 
 ---
+
+### Application process
+
+These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science. 
+
+There will be three consecutive recruitment process until the three positions are filled.
+
+Candidates need to be recommended by at least one researcher. 
+
+Applicants are advised to send the proposals and CVs to the PI (coexistence@uj.edu.pl) for the pre-screening and potential recommendation.
+
+For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.pl or visit the official placement at the doctoral school website: TBA
+
