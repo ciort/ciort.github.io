@@ -96,7 +96,7 @@ You will work in an exceptional working environment, active and inspirational at
 ### Documents:
 
 * CV with a focus on research and academic experiences
-* Motivation letter (2 pages max) demonstrating your fitness for this position, your research vision for the project and your role (project[details]( https://rafalkucharskipk.github.io/COeXISTENCE/)
+* Motivation letter (2 pages max) demonstrating your fitness for this position, your research vision for the project and your role ([project details]( https://rafalkucharskipk.github.io/COeXISTENCE/) )
 * Recommendation from researcher (employee of any academic institution). If not available, please contact the PI for the pre-screening and possible recommendation
 * Abstract of your Master Thesis (2 pages max)
 * English language certificate transcript of records (B.Sc. and M.Sc. studies)
