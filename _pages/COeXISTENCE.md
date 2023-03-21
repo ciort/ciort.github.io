@@ -68,6 +68,19 @@ You will work in an exceptional working environment, active and inspirational at
 
 ---
 
+### We offer:
+
+
+*	Active support in reaching scientific excellence, 
+*	Meaningful and rewarding research program, 
+*	Hands-on experience in the highly demanded IT and ML skills,
+*	Active participation in international scientific community (staff exchanges, conferences, cooperations),
+*	Competitive salary (ca 12 500 PLN/month – 2680€ plus bonuses).
+*	Bonuses, e.g. holiday allowance, yearly bonus, and optionally: sport (Benefit Multisport), private health care (PZU).
+*	Full-time contract for 48 months,
+
+
+
 ### Application process
 
 * These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science. 
