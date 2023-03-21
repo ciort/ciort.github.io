@@ -5,7 +5,7 @@ title: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
 nav: true
 ---
-> Vacancies details and recruitment process below
+> Vacancies details and recruitment process below (PhD + PostDoc)
 
 I run the **ERC Starting Grant** to understand the future of Urban Mobility. In **COeXISTENCE**, with the team of 4, we try to foresee what happens when our cities are shared with autonomous, intelligent robots - competing with us for limited resources. We create virtual environments where individual agents compete to arrive faster, more reliably and cheaper at their destinations.  Human agents are simulated with detailed behavioural models, estimated and calibrated on the field data to reproduce how we behave and adapt in the cities. In the same environment the deep learning agents try the same - they  use deep reinforcement learning to maximise their rewards. This creates a harsh competition in which machines have upper-hands strong enough to beat us. 
 
@@ -70,13 +70,23 @@ You will work in an exceptional working environment, active and inspirational at
 
 ### Application process
 
-These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science. 
+* These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science. 
+* There will be three consecutive recruitment process until the three positions are filled.
+* Candidates need to be recommended by at least one researcher. 
+* Applicants are advised to send the proposals and CVs to the PI (coexistence@uj.edu.pl) for the pre-screening and potential recommendation.
 
-There will be three consecutive recruitment process until the three positions are filled.
+### Deadline:
 
-Candidates need to be recommended by at least one researcher. 
+> the recruitment process will start in April and will remain opened until positions are filled (expected to be filled no later than July)
 
-Applicants are advised to send the proposals and CVs to the PI (coexistence@uj.edu.pl) for the pre-screening and potential recommendation.
+
+### Documents:
+
+* CV with a focus on research and academic experiences
+* Motivation letter (2 pages max) demonstrating your fitness for this position, your research vision for the project and your role (project[details]( https://rafalkucharskipk.github.io/COeXISTENCE/)
+* Recommendation from researcher (employee of any academic institution). If not available, please contact the PI for the pre-screening and possible recommendation
+* Abstract of your Master Thesis (2 pages max)
+* English language certificate transcript of records (B.Sc. and M.Sc. studies)
 
 For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.pl or visit the official placement at the doctoral school website: TBA
 
