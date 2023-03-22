@@ -13,7 +13,7 @@ I run the **ERC Starting Grant** to understand the future of Urban Mobility. In 
 <img src="/./assets/img/Highlight_fig.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
-**COeXISTENCE** is a broad and deep experiment in virtual environment on future cities, aimed to discover the new phenomena and propose the new solutions. See the brief overview [here](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/flyer.pdf).
+**COeXISTENCE** is a broad and deep experiment in virtual environment on future cities, aimed to discover the new phenomena and propose the new solutions. See the brief overview [here](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/flyer.pdf) and more thorough [presentation](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/MIMUW_Kucharski_COeXISTENCE_ERC.pdf).
 
 It spans between fields as diverse as:
 
