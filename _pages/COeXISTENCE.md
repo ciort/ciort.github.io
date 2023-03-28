@@ -36,14 +36,14 @@ It spans between fields as diverse as:
 I am looking to hire three PhD students and a PostDoc to work on this exciting topic. 
 
 
-*  **PhD 1** with a background in deep reinforcement learning, ideally holding a master’s degree in computer science with experience in developing state-of-the-art RL models. She/he will focus on implementing RL frameworks into the agent-based models of urban mobility, he will work closely with a PostDoc of similar experience forming a core of machine-learning component of the project. 
+*  **PhD 1** with a background in deep reinforcement learning, ideally holding a master’s degree in computer science with experience in developing state-of-the-art RL models. She/he will focus on implementing RL frameworks into the agent-based models of urban mobility, he will work closely with a PostDoc of similar experience forming a core of machine-learning component of the project. [OFFER](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/PhD_offer_ERC_RL.pdf)
 
-* **PhD 2** with a background in modelling urban mobility, ideally holding a master’s degree in transportation engineering. She/he will focus on reproducing urban mobility in agent-based models of urban mobility. The main tasks will be to create virtual environments accurately reproducing future of urban mobility and to actively search for conflicts in the urban mobility games.
+* **PhD 2** with a background in modelling urban mobility, ideally holding a master’s degree in transportation engineering. She/he will focus on reproducing urban mobility in agent-based models of urban mobility. The main tasks will be to create virtual environments accurately reproducing future of urban mobility and to actively search for conflicts in the urban mobility games. [OFFER](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/PhD_offer_ERC_Transport.pdf)
 
-* **PhD 3** with a background in computational social sciences, experienced with analysis of social systems. She/he shall have a strong experience in complex systems to cover the complexity of the mixed environment of humans and machines. She/he will introduce the behavioural component into the project, with ethical dilemmas, the trade-off between transparency and efficiency and multi-objective data-driven optimization of social systems. 
+* **PhD 3** with a background in computational social sciences, experienced with analysis of social systems. She/he shall have a strong experience in complex systems to cover the complexity of the mixed environment of humans and machines. She/he will introduce the behavioural component into the project, with ethical dilemmas, the trade-off between transparency and efficiency and multi-objective data-driven optimization of social systems. [OFFER](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/PhD_offer_ERC_CS.pdf)
 
 
-* **PostDoctoral** researcher with experience in deep reinforcement learning and software development. She/he will work on a daily basis with the PhD students to integrate the software development process and manage the computational environment of the project. She/he will interface between hardware (nVIDIA framework) and our simulations making sure that available resources are utilized effectively. She/he will complement the PI with the skills on reinforcement learning, helpful in the challenging learning loops in multi-objective multi-agent settings.
+* **PostDoctoral** researcher with experience in deep reinforcement learning and software development. She/he will work on a daily basis with the PhD students to integrate the software development process and manage the computational environment of the project. She/he will interface between hardware (nVIDIA framework) and our simulations making sure that available resources are utilized effectively. She/he will complement the PI with the skills on reinforcement learning, helpful in the challenging learning loops in multi-objective multi-agent settings. [OFFER](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/PhD_offer_ERC_RL.pdf)
 
 PhD candidates and PostDoc will have excellent programming skills and background in STEM (in particular mathematics, statistics and complex systems) – enabling smooth implementation of algorithmic and theoretical concepts into the working scientific software.
 
@@ -96,8 +96,8 @@ You will work in an exceptional working environment, active and inspirational at
 ### Documents:
 
 * CV with a focus on research and academic experiences
-* Motivation letter (2 pages max) demonstrating your fitness for this position, your research vision for the project and your role ([project details]( https://rafalkucharskipk.github.io/COeXISTENCE/) )
-* Recommendation from researcher (employee of any academic institution). If not available, please contact the PI for the pre-screening and possible recommendation
+* *Research plan and motivation* (2 pages max) demonstrating your fitness for this position, your research vision for the project and your role.
+* Recommendation from at least one researcher (employee of any academic institution). If not available, please contact the PI for the pre-screening and possible recommendation
 * Abstract of your Master Thesis (2 pages max)
 * English language certificate transcript of records (B.Sc. and M.Sc. studies)
 
