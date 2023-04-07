@@ -83,14 +83,16 @@ You will work in an exceptional working environment, active and inspirational at
 
 ### Application process
 
-* These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science. 
+* These PhD positions are offered in the Doctoral School of Exact and Natural Sciences under the programme Technical Computer Science.
 * There will be three consecutive recruitment process until the three positions are filled.
 * Candidates need to be recommended by at least one researcher. 
 * Applicants are advised to send the proposals and CVs to the PI (coexistence@uj.edu.pl) for the pre-screening and potential recommendation.
 
+
+
 ### Deadline:
 
-> the recruitment process will start in April and will remain opened until positions are filled (expected to be filled no later than July)
+the recruitment process will start in April and will remain opened until positions are filled (expected to be filled no later than July)
 
 
 ### Documents:
@@ -101,5 +103,7 @@ You will work in an exceptional working environment, active and inspirational at
 * Abstract of your Master Thesis (2 pages max)
 * English language certificate transcript of records (B.Sc. and M.Sc. studies)
 
-For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.pl or visit the official placement at the doctoral school website: TBA
+For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.pl
+
+## Offical call by the Doctoral School and the application portal: [here](https://science.phd.uj.edu.pl/recruitment/it-tech/-/journal_content/56_INSTANCE_b9SFysKAM4oV/142594442/153272284)
 
