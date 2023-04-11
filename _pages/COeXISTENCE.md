@@ -105,5 +105,8 @@ the recruitment process will start in April and will remain opened until positio
 
 For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.pl
 
-## Offical call by the Doctoral School and the application portal: [here](https://science.phd.uj.edu.pl/recruitment/it-tech/-/journal_content/56_INSTANCE_b9SFysKAM4oV/142594442/153272284)
+
+
+
+## Offical call by the Doctoral School and the application portal: [here](https://science.phd.uj.edu.pl/en_GB/recruitment/it-tech/-/journal_content/56_INSTANCE_b9SFysKAM4oV/142594442/153272284)
 
