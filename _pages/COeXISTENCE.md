@@ -107,5 +107,5 @@ For further inquiries, please contact Dr Rafal Kucharski at coexistence@uj.edu.p
 
 
 
-## Offical call by the Doctoral School and the application portal: [here](https://science.phd.uj.edu.pl/en_GB/recruitment/it-tech/-/journal_content/56_INSTANCE_b9SFysKAM4oV/142594442/153272284)
+[//]: # "Offical call by the Doctoral School and the application portal: [here](https://science.phd.uj.edu.pl/en_GB/recruitment/it-tech/-/journal_content/56_INSTANCE_b9SFysKAM4oV/142594442/153272284)"
 
