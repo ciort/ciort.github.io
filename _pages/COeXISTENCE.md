@@ -5,7 +5,8 @@ title: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
 nav: true
 ---
-> Vacancies details and recruitment process below (PhD + PostDoc)
+
+![logo](https://github.com/COeXISTENCE-PROJECT/shared/blob/main/graphical/COeXISTENCE/COeXISTENCE_logo/LOGO/COLOR/horizontal/COeXISTENCE_logo_color_horizontal_blue-gray.jpg)
 
 I run the **ERC Starting Grant** to understand the future of Urban Mobility. In **COeXISTENCE**, with the team of 5, we try to foresee what happens when our cities are shared with autonomous, intelligent robots - competing with us for limited resources. We create virtual environments where individual agents compete to arrive faster, more reliably and cheaper at their destinations.  Human agents are simulated with detailed behavioural models, estimated and calibrated on the field data to reproduce how we behave and adapt in the cities. In the same environment the deep learning agents try the same - they  use deep reinforcement learning to maximise their rewards. This creates a harsh competition in which machines have upper-hands strong enough to beat us. 
 
