@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. Full [CV](/assets/pdf/CV_en_2022.pdf)
+I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. Full [CV](/assets/pdf/cv_eng_2022.pdf)
 
 Currently, I run the **ERC Starting Grant COeXISTENCE** where I bridge between ML and transportation - we simulate how intelligent machines compete with humans for limited urban resources (space) and what can we expect. See details [here](https://rafalkucharskipk.github.io/COeXISTENCE/)
 I am **Assistant Professor** in the Faculty of Mathematics and Computer Science of **Jagiellonian University** in Krakow (Poland) with the **Group of Machine Learning Research** [GMUM](http://www.gmum.net). I run the *NCN Opus Grant* on Shared Mobility in the pandemic times, *ERC StG* and *Horizon Europe* projects.
