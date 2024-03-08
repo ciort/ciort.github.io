@@ -1,8 +1,8 @@
 ---
 layout: about, archive-category, archive-tag, archive-year, bib, default, distill, none, page, post
-title: Sample
+title: Test
 nav: true
-nav_order: 8
+nav_order: 9
 dropdown: true
 children:
   - title: publications
