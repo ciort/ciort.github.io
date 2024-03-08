@@ -22,12 +22,15 @@
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
-                    <a href="/members/salvaneschi">
-                    <h5 class="card-title">Prof. Dr. Guido Salvaneschi</h5>
+                    {% if project.redirect %}
+  <a href="{{ project.redirect }}">
+  {% else %}
+  <a href="{{ project.url | relative_url }}">
+  {% endif %}
+                    <h5 class="card-title">{{ project.title }}</h5>
                     <h6 class="card-subtitle mb-2 text-muted">Head of the Programming Group</h6>
                     <p class="card-text">
-                        I’m a (tenured) Associate Professor at the University of St.Gallen from September 2020. Before, I have been an assistant professor at TU Darmstadt, where I led the Reactive Software Systems group.
-
+                        {{ project.description }}
                     </p>
                     </a>
                     
