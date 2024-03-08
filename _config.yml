@@ -4,7 +4,7 @@
 
 title: Rafal Kucharski Lab  # the website title (if blank, full name will be used instead)
 first_name: Rafal
-middle_name: 
+middle_name: x
 last_name: Kucharski
 email: rafal.kucharski@uj.edu.pl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
