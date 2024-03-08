@@ -1,4 +1,4 @@
-<div class="grid-item">
+
   {% if project.redirect %}
   <a href="{{ project.redirect }}">
   {% else %}
@@ -13,7 +13,12 @@
 <div class="card hoverable">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="/assets/img/salvaneschi-profile.jpg" class="card-img img-fluid" alt="Prof. Dr. Guido Salvaneschi">
+               {% if project.img %}
+        {% responsive_image_block %}
+          path: {{ project.img }}
+          alt: "project thumbnail"
+        {% endresponsive_image_block %}
+      {% endif %}
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
@@ -47,6 +52,4 @@
                 </div>
             </div>
         </div>
-    </div>
-    
-  
+
