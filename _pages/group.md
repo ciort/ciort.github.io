@@ -33,7 +33,7 @@ horizontal: false
       {% else %}
         <div>
           {% for project in sorted_projects %}
-            {% include projects.html %}
+            {% include projects_horizontal.html %}
           {% endfor %}
         </div>
       {% endif %}
