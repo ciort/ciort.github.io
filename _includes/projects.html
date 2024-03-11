@@ -1,13 +1,17 @@
+<!-- box start -->
 <p>
     <div class="card hoverable">
         <div class="row no-gutters">
-            <div class="col-sm-4 col-md-3">
-                <img src="/assets/img/weisenburger-profile.jpg" class="card-img img-fluid" alt="Dr. Pascal Weisenburger" />
-            </div>
+           {% if project.img %}
+        {% responsive_image_block %}
+          path: {{ project.img }}
+          alt: "project thumbnail"
+        {% endresponsive_image_block %}
+      {% endif %}
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
                     <a href="/members/weisenburger">
-                    <h5 class="card-title">Dr. Pascal Weisenburger</h5>
+                    <h5 class="card-title">{{ project.title }}</h5>
                     
                     <p class="card-text">
                         My current research focuses on the design of languages for distributed systems with a wide range of software architectures – e.g., peer-to-peer, cloud, edge, serverless, IoT – regarding sound programming models for the interaction between components, their composition, privacy protection issues, type systems for reasoning about the placement of data and computation.
@@ -36,3 +40,4 @@
         </div>
     </div>
 </p>
+<!-- box end -->
