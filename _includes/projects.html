@@ -1,35 +1,38 @@
-<div class="grid-item">
-  {% if project.redirect %}
-  <a href="{{ project.redirect }}">
-  {% else %}
-  <a href="{{ project.url | relative_url }}">
-  {% endif %}
+<p>
     <div class="card hoverable">
-      {% if project.img %}
-        {% responsive_image_block %}
-          path: {{ project.img }}
-          alt: "project thumbnail"
-        {% endresponsive_image_block %}
-      {% endif %}
-      <div class="card-body">
-        <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-        <p class="card-text">{{ project.description }}</p>
-        <div class="row ml-1 mr-1 p-0">
-          {% if project.github %}
-          <div class="github-icon">
-            <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+        <div class="row no-gutters">
+            <div class="col-sm-4 col-md-3">
+                <img src="/assets/img/weisenburger-profile.jpg" class="card-img img-fluid" alt="Dr. Pascal Weisenburger" />
             </div>
-            {% if project.github_stars %}
-            <span class="stars" data-toggle="tooltip" title="GitHub Stars">
-              <i class="fas fa-star"></i>
-              <span id="{{ project.github_stars }}-stars"></span>
-            </span>
-            {% endif %}
-          </div>
-          {% endif %}
+            <div class="team col-sm-8 col-md-9">
+                <div class="card-body">
+                    <a href="/members/weisenburger">
+                    <h5 class="card-title">Dr. Pascal Weisenburger</h5>
+                    
+                    <p class="card-text">
+                        My current research focuses on the design of languages for distributed systems with a wide range of software architectures – e.g., peer-to-peer, cloud, edge, serverless, IoT – regarding sound programming models for the interaction between components, their composition, privacy protection issues, type systems for reasoning about the placement of data and computation.
+
+                    </p>
+                    </a>
+                    
+                        <a href="mailto:pascal.weisenburger@unisg.ch" class="card-link"><i class="fas fa-envelope"></i></a>
+                    
+                    
+                    
+                    
+                        <a href="https://orcid.org/0000-0003-1288-1485" class="card-link" target="_blank"><i class="fab fa-orcid"></i></a>
+                    
+                    
+                    
+                        <a href="https://github.com/pweisenburger" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
+                    
+                    
+                    <p class="card-text">
+                        <small class="test-muted"><i class="fas fa-thumbtack"></i> School of Computer Science,  Torstrasse 25,  9000 St. Gallen, Switzerland
+</small>
+                    </p>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </a>
-</div>
+</p>
