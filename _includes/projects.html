@@ -4,6 +4,7 @@
   {% else %}
   <a href="{{ project.url | relative_url }}">
   {% endif %}
+  <p>
     <div class="card hoverable">
       {% if project.img %}
         {% responsive_image_block %}
@@ -31,5 +32,6 @@
         </div>
       </div>
     </div>
+    </p>
   </a>
 </div>
