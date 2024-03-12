@@ -10,7 +10,12 @@ layout: default
 
   <article>
     {{ content }}
-    {{ page.img }}
+     {% if page.img %}
+        {% responsive_image_block %}
+          path: {{ page.img }}
+          alt: "project thumbnail"
+        {% endresponsive_image_block %}
+      {% endif %}
   </article>
 zzz
 </div>
