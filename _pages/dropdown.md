@@ -9,7 +9,7 @@ children:
     permalink: /COeXISTENCE/
   - title: divider
   - title: OPUS
-    permalink: /g_1_OPUS/
+    permalink: /research/g_1_OPUS/
   
     
 ---
