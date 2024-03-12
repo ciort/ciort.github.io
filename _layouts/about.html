@@ -32,6 +32,10 @@ layout: default
     <div class="clearfix">
       {{ content }}
     </div>
+    
+    {% if page.x %}
+      {% include sx.html %}
+    {% endif %}
 
     {% if page.news %}
       {% include news.html %}
