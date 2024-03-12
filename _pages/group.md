@@ -1,6 +1,6 @@
 ---
 layout: page
-title: group
+title: people
 permalink: /group/
 description: Our research group
 nav: true
