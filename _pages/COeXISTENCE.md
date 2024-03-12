@@ -3,7 +3,7 @@ layout: page
 permalink: /COeXISTENCE/
 title: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
-nav: true
+nav: false
 ---
 
 <img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>
