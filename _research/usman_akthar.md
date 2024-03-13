@@ -7,7 +7,6 @@ importance: 4
 category: team
 ---
 
-<center><img src="{{ site.baseurl }}/assets/img/usman.jpg" height="300" width="300"></center>
 
 
 Usman graduated from  Computer Science at  Kyung Hee University  (KHU)  in
