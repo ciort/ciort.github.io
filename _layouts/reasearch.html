@@ -1,8 +1,5 @@
-<!-- box start -->
-
-
-    
-     <div class="col-sm-6 col-md-4 mb-3">
+<!-- box research start -->
+<div class="col-sm-6 col-md-4 mb-3">
         
         <a href="https://www.rescala-lang.com/" class="no-decoration" target="_blank">
             
@@ -11,20 +8,25 @@
                     
                     <div class="card-header">
                         
-                        <img src="/assets/img//projects/rescala.svg" alt="REScala">
+                       {% if page.img %}
+        {% responsive_image_block %}
+          path: {{ page.img }}
+          alt: "project thumbnail"
+        {% endresponsive_image_block %}
+      {% endif %}
                         
                     </div>
-                    
+                    <p>{{ page.title }}</p>
                     <div class="card-body">
                         
-                        <p class="card-text">Advanced functional reactive programming for the JVM and the Web.</p>
+                        <p class="card-text">{{ page.description }}</p>
                     </div>
                 </div>
                 </a>
-    </div>
-    
-   
-    
-
-
+</div>
 <!-- box end -->
+
+
+
+
+
