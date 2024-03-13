@@ -1,25 +1,25 @@
 <!-- box research start -->
 <div class="col-sm-6 col-md-4 mb-3">
         
-        <a href="https://www.rescala-lang.com/" class="no-decoration" target="_blank">
+        <a href="#" class="no-decoration" target="_blank">
             
                 <div class="card h-100 mx-2 hoverable">
                     
                     
                     <div class="card-header">
                         
-                       {% if page.img %}
+                       {% if project.img %}
         {% responsive_image_block %}
-          path: {{ page.img }}
+          path: {{ project.img }}
           alt: "project thumbnail"
         {% endresponsive_image_block %}
       {% endif %}
                         
                     </div>
-                    <p>{{ page.title }}</p>
+                    <p>{{ project.title }}</p>
                     <div class="card-body">
                         
-                        <p class="card-text">{{ page.description }}</p>
+                        <p class="card-text">{{ project.description }}</p>
                     </div>
                 </div>
                 </a>
