@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: member
 title: Arkadiusz Drabicki
 description: PhD in real-time crodwing information for public transport
 img: assets/img/arek.jpeg

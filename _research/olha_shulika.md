@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: member
 title: Olha Shulika
 description: Post Doc in ride-pooling for the Post-Pandemic Reality
 img: assets/img/UJ.jpeg
