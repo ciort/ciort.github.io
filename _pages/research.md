@@ -24,9 +24,10 @@ horizontal: false
           </div>
         </div>
       {% else %}
-        <div class="_grid">
+       <div class="d-flex align-content-stretch justify-content-center flex-wrap no-gutters mx-n2">
+
           {% for project in sorted_projects %}
-            {% include projects.html %}
+            {% include research.html %}
           {% endfor %}
         </div>
       {% endif %}
@@ -45,11 +46,13 @@ horizontal: false
         </div>
       </div>
     {% else %}
-      <div class="_grid">
+      <div class="d-flex align-content-stretch justify-content-center flex-wrap no-gutters mx-n2">
         {% for project in sorted_projects %}
-          {% include projects.html %}
+          {% include research.html %}
         {% endfor %}
       </div>
     {% endif %}
 
   {% endif %}
+
+
