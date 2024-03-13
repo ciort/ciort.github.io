@@ -12,7 +12,7 @@
   Rafal Kucharski Lab
 
 
-  | blog
+  | simulation
 
 </title>
 <meta name="description" content="Urban Mobility Lab at Jagiellonian University, Poland: Where transport engineering meets network science and machine learning.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🙌</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://ciort.github.io/blog/">
+<link rel="canonical" href="https://ciort.github.io/research/4_maassim/">
 
 
 <!-- Dark Mode -->
@@ -197,18 +197,33 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2></h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">simulation</h1>
+    <p class="post-description">agent-based two-sided mobility platform simulator</p>
+  </header>
+
+  <article>
+    <p><strong>Agent-based two-sided mobility platform simulator - lightweight open-source scientific software. Designed to support research of four PhDs and several master students under Critical MaaS grant - stream of papers in preparation.</strong></p>
+
+<p>Preprint on <a href="https://arxiv.org/abs/2011.12827" target="_blank" rel="noopener noreferrer">arxiv</a> (under review in <em>PLOS One</em>) 
+and publicly available github <a href="https://github.com/RafalKucharskiPK/MaaSSim" target="_blank" rel="noopener noreferrer">repo</a> with <em>Oded Cats</em>.</p>
+
+<center><img src="https://github.com/RafalKucharskiPK/MaaSSim/raw/master/data/MaaSSim_animation.gif"></center>
+<div class="col three caption">
+    Figure 1: Operations of MaaSSim.
+</div>
+
+<p>MaaSSim is an agent-based simulator, reproducing the dynamics of two-sided mobility platforms (like Uber and Lyft) in the context of urban transport networks. It models the behaviour and interactions of two kind of agents: (i) travellers, requesting to travel from their origin to destination at a given time, and (ii) drivers supplying their travel needs by offering them rides. The interactions between the two agent types are mediated by the platform, matching demand and supply. Both supply and demand are microscopic. For supply this pertains to the explicit representation of single vehicles and their movements in time and space (using a detailed road network graph), while for demand this pertains to exact trip request time and destinations defined at the graph node level. Agents are decision makers, specifically, travellers may reject the incoming offer or decide to use another mode than those offered by the mobility platform altogether. Similarly, driver may opt-out of the system (stop providing service) or reject/accept incoming requests. Moreover, they may strategically re-position while being idle.</p>
+
+<p>All of above behaviours are modelled through user-defined decision modules, by default deterministic, optionally probabilistic, representing agents’ taste variations (heterogeneity), their previous experiences (learning) and available information (system control). Each simulation run results in two sets of outputs, one being the sequence of recorded space-time locations and statuses for simulated vehicles and the other for travellers. Further synthesised into agent-level and system-wide KPIs for in-depth analyses.</p>
+
+<center><img src="/assets/img/maassim.png"></center>
+<div class="col three caption">
+    Figure 1: 
+</div>
 
 
-  <ul class="post-list">
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
